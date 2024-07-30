@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infinityhospitalitygroup.com	TRUE	/	FALSE	1999999999	PHPSESSID	e4bf7cdac889673e324c19e033a4ad99
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	0EJx_BfH0HtXA.iBqKo0idgFrK7AC7CFuz12RQaL1bw-1717665938-1.0.1.1-rQ_Sp6iMWOEHzmQ6OGjXJwj10JLWSgV7AKLWDQha9sbVRXcPiI.AmdDce7rgsdM1EHtUxoqMt5sOjZGsT3hqlA
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	OroCEKC6xLo8UW6dHEFtSMRHc2aqqtRmByozH6W9lQY-1717665938489-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
